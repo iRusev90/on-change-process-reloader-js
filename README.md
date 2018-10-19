@@ -8,6 +8,8 @@ Reloads a process on change in given directories/files.
 
 
 ## Installation
+
+* install npm  dependencies
 	```bash
 	cd ~/my/js/scripts/on-change-process-reloader-js
 	npm install
