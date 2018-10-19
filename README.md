@@ -8,7 +8,7 @@ Reloads a process on change in given directories/files.
 
 
 ## Installation
-	```back
+	```bash
 	cd ~/my/js/scripts/on-change-process-reloader-js
 	npm install
 	```
