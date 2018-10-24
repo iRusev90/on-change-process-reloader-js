@@ -53,7 +53,7 @@ Reloads a process on change in given directories/files.
 	it works with particular sub directories as well
 	eg:
 	```bash
-	refresher-js gulp eslint --watch-dirs=./my/js/source/dir/*
+	refresher-js gulp eslint --watch-dirs=./my/js/source/dir/
 	```
 
 	* You can also add arguments for your script. You can place the --watch-dirs flag anywhere there as well and it will not be included in your script's command line arguments
