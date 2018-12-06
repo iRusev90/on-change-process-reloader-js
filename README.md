@@ -18,7 +18,7 @@ Reloads a process on change in given directories/files.
 # Usage
 * create an alias for the script in ~/.bashrc for easier usage (optional)
 	```bash
-    alias refresher-js='expect ~/my/script/dir/on-change-process-reloader-js/start-listening.js'
+    alias refresher-js='node ~/my/script/dir/on-change-process-reloader-js/start-listening.js'
 	```
 
 * go to some folder
